@@ -1,5 +1,5 @@
 # Weather-Detetcor
-A Python Script which uses a REST API to detect the weather of the entered city.
+A Python Script which uses a REST API to detect the weather of a particular city.
 
 Just visit the Openweathermap API website, register and generate a free API key with the following link:
 
